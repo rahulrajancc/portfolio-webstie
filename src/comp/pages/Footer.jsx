@@ -9,7 +9,7 @@ export default function Footer() {
             <a href="https://rahulrajancc@gmail.com" id='links'>Mail</a>
             </div>
             <div id='footer_bottom'>
-                <p>&copy; 2022  |  All rights reserved | Designed and developed by Rahul</p>
+                <p>&copy; 2024  |  All rights reserved | Designed and developed by Rahul</p>
     </div>
         </div>
     )

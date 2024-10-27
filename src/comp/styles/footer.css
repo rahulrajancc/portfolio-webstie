@@ -1,0 +1,35 @@
+#footer_con{
+    height: 40vh;
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ gap: 4rem;
+    align-items: center;
+}
+#footer_main{
+  
+    
+    
+    
+}
+#footer_main a{
+    
+    margin-left: 4rem;
+    text-decoration: none;
+    font-size: 2rem;
+   
+}
+@media screen and (max-width: 960px) {
+
+    #footer_main a{
+        font-size: 1.5rem;
+    }
+    #footer_con{
+     justify-content: center;
+     gap: 2rem;
+       
+    }
+    #footer_bottom{
+        font-size: small;
+    }
+}

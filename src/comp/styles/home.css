@@ -1,0 +1,156 @@
+#Home_con{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+   height: 1024px;
+   width: auto;
+}
+#nav_bar{
+    display: flex;
+    height: 10vh;
+    width: 90vw;
+    border: 2px solid white;
+    border-radius: 32px;
+    
+    
+
+}
+#head_home_bar{
+    align-self: center;
+   
+    background:none;
+    font-family:Italianno;
+    margin-left: 10%;
+
+}
+#nav_links{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 2vw;
+   
+    flex-wrap: nowrap;
+    background: none;
+    margin-left: 32%;
+     
+}
+#nav_links a{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    
+   
+}
+#home_content{
+  
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+ 
+    place-items: center;
+    gap: 0rem;
+    
+}
+.home_items{
+font-family: serif;
+    
+}
+#header_main{
+    font-size: 70px;
+}
+#himg{
+    height: 45rem;
+    width: auto;
+}
+#nav_options{
+    display: none;
+}
+#nav_option{
+    display: none;
+}
+
+
+@media screen and (max-width: 960px) {
+    #nav_option{
+        display: block;
+    }
+    #nav_options{
+        display: block;
+    }
+    #h_btn{
+        width: 2rem;
+        height: auto;
+        margin-top: .5rem;
+        margin-left: 15vw;
+
+    }
+    #nav_links a{
+      display:none;
+    }
+    #options{
+        display: none;
+        position: absolute;
+        width: 20rem;
+        height: 100vh;
+        margin-top: 3rem;
+        right: 0;
+        background-color: rgba(54, 45, 45, 0.5);
+        border-radius: 3rem;
+    }
+    #himg{
+        display: none;
+    }
+    #nav_bar{
+        display: flex;
+        height: 6vh;
+        width: 95vw;
+        border: none;
+        border-bottom: 1px solid white;
+        border-radius: 0;
+        background: none;
+      
+       
+
+        
+        
+    
+    }
+    #head_home_bar{
+        font-size: 20px;
+       margin-left: 1px;
+    }
+    #header_main{
+        font-size: 40px;
+       
+        grid-template-columns: 1fr;
+        place-items: center;
+    }
+    #home_content{
+       height: 90vh;
+       background-image: url('../../img/hpic.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;  
+
+    }
+    #nav_option{
+        display: flex;
+        flex-direction: column;
+        font-size: 2rem;
+        text-decoration: none;
+        list-style: none;
+        background:none;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        margin-top: 2rem;
+        
+       
+
+    }
+  #nav_option a{
+    text-decoration: none;
+    background-color: rgba(54, 45, 45, 0.5);
+   margin-bottom: 2rem
+   
+  }
+}

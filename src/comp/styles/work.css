@@ -1,0 +1,40 @@
+#work_con{
+    display: flex;
+   
+    align-items: center;
+flex-direction: column;
+height: 1024px;
+
+
+}
+hr{
+    width: 70vw;
+    
+}
+#work_header{
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.work_items{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 3rem;
+}
+.project{
+    border: 2px solid white;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 16px;
+}
+.project h2{
+    margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 960px) {
+    .work_items{
+        display:grid;
+        grid-template-columns: 1fr;
+        margin: 3rem;
+    }
+}

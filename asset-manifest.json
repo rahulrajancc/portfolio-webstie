@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.64d0984a.css",
+    "main.js": "/portfolio/static/js/main.f3921545.js",
+    "static/js/453.843a6444.chunk.js": "/portfolio/static/js/453.843a6444.chunk.js",
+    "static/media/pic.png": "/portfolio/static/media/pic.674968ae71469b23f93f.png",
+    "static/media/js.png": "/portfolio/static/media/js.5030f9b16b8c75fda375.png",
+    "static/media/hpic.jpg": "/portfolio/static/media/hpic.256948f3b572eb0441b5.jpg",
+    "static/media/physics.png": "/portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/react.png": "/portfolio/static/media/react.9c2e65ebf9c62e78a495.png",
+    "static/media/arduino.png": "/portfolio/static/media/arduino.8f5562fee86bf42a890b.png",
+    "static/media/html .png": "/portfolio/static/media/html .771c70c2006a4aa0109b.png",
+    "static/media/css.png": "/portfolio/static/media/css.2d4a4a440115a46cb30d.png",
+    "static/media/op.png": "/portfolio/static/media/op.dc67c2e1013e8447f4af.png",
+    "static/media/exprress.png": "/portfolio/static/media/exprress.c0a5938442260d76c0f2.png",
+    "index.html": "/portfolio/index.html",
+    "main.64d0984a.css.map": "/portfolio/static/css/main.64d0984a.css.map",
+    "main.f3921545.js.map": "/portfolio/static/js/main.f3921545.js.map",
+    "453.843a6444.chunk.js.map": "/portfolio/static/js/453.843a6444.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d0984a.css",
+    "static/js/main.f3921545.js"
+  ]
+}

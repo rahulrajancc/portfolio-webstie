@@ -2,11 +2,7 @@
   "name": "portfile",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": " https://rahulrajancc.github.io/portfolio-webstie",
-=======
-  "homepage": " https://rahulrajancc.github.io/portfolio-webstie/",
->>>>>>> 30c77cbe63fe18f0f3aa37c7101b9d876ef3cff7
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

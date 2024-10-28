@@ -17,13 +17,13 @@ export default function Home() {
             <div id='nav_options' >
                 <img src={op} id='h_btn' onClick={togglePop} alt='its option icon'/>
             </div>
-                <div id='options'>
+                <div id='options' >
                 <ul id='nav_option'>
-              <a href='#Home_con'>Home</a><hr/>
-              <a href='#work_con'>My Work</a><hr/>
-              <a href='#about_con'>About Me</a><hr/>
-              <a href='#tool_main'>My Tools</a><hr/>
-              <a href='#footer_con'>Contact me</a><hr/>
+              <a href='#Home_con'  onClick={togglePop}>Home</a><hr/>
+              <a href='#work_con'  onClick={togglePop}>My Work</a><hr/>
+              <a href='#about_con' onClick={togglePop} >About Me</a><hr/>
+              <a href='#tool_main' onClick={togglePop} >My Tools</a><hr/>
+              <a href='#footer_con'  onClick={togglePop}>Contact me</a><hr/>
                
             </ul>
                 </div>

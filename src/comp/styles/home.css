@@ -4,12 +4,12 @@
     align-items: center;
   
    height: 1024px;
-   width: auto;
+   width: 100%;
 }
 #nav_bar{
     display: flex;
     height: 10vh;
-    width: 90vw;
+    width: 100%;
     border: 2px solid white;
     border-radius: 32px;
     
@@ -49,10 +49,23 @@
  
     place-items: center;
     gap: 0rem;
-    
+    background: none;
+   margin-top: 3rem;
+
+}
+h2{
+    background: none;
+}
+p{
+    background: none;
+    margin-left: 1rem;
+
+
 }
 .home_items{
 font-family: serif;
+background: none;
+margin-left: 1rem;;
     
 }
 #header_main{
@@ -70,6 +83,25 @@ font-family: serif;
 }
 
 
+
+@media screen and (max-width: 1349px) {
+    #himg{
+        height: 35rem;
+        width: auto;
+    }
+    #nav_bar{
+        height: 6vh;
+        margin: 1rem;
+    }
+    #header_main{
+        background: none;
+       
+
+}
+#header_main p{
+    background: none;;
+
+}}
 @media screen and (max-width: 960px) {
     #nav_option{
         display: block;
@@ -89,25 +121,33 @@ font-family: serif;
     }
     #options{
         display: none;
-        position: absolute;
-        width: 20rem;
+        position:absolute;
+        width: 100%;
         height: 100vh;
-        margin-top: 3rem;
-        right: 0;
+       margin-top: 3rem;
+        top: 0;
+        
         background-color: rgba(54, 45, 45, 0.5);
         border-radius: 3rem;
     }
     #himg{
         display: none;
     }
+  
+
     #nav_bar{
         display: flex;
-        height: 6vh;
-        width: 95vw;
+        position: fixed;
+        justify-content: center;
+        align-items: center;
+        height: 2vh;
+        width: 90%;
         border: none;
-        border-bottom: 1px solid white;
-        border-radius: 0;
-        background: none;
+        padding: 1rem;
+        border: 1px solid white;
+        border-radius: 2rem;
+        
+       
       
        
 
@@ -138,19 +178,24 @@ font-family: serif;
         font-size: 2rem;
         text-decoration: none;
         list-style: none;
-        background:none;
+       
         justify-content: center;
         align-items: center;
         gap: 2rem;
-        margin-top: 2rem;
+        
+        height: 100%;
+        width: 100%;
         
        
-
+ background-color: rgba(54, 45, 45, 0.5);
     }
   #nav_option a{
     text-decoration: none;
-    background-color: rgba(54, 45, 45, 0.5);
-   margin-bottom: 2rem
+    background: none;
+   
+   margin-bottom: 2rem;
+   
+   
    
   }
 }

@@ -2,6 +2,7 @@
    
  
     height: 1024px;
+    width: 100%;
     
 }
 #tool_header{
@@ -40,8 +41,8 @@
     color: black;
     background-color: white;
 }
-@media screen and (max-width: 960px) {
 
+@media screen and (max-width: 1349px ) {
     .tools_item{
         display: grid;
         grid-template-columns: repeat(3,1fr);
@@ -49,6 +50,10 @@
         gap: 1rem;
         
     }
+}
+@media screen and (max-width: 960px) {
+
+   
     .tools_item{
         display: grid;
         grid-template-columns: repeat(2,1fr);

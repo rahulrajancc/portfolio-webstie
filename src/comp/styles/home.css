@@ -8,6 +8,7 @@
 }
 #nav_bar{
     display: flex;
+    position: fixed;
     height: 10vh;
     width: 100%;
     border: 2px solid white;
@@ -50,7 +51,7 @@
     place-items: center;
     gap: 0rem;
     background: none;
-   margin-top: 3rem;
+   margin-top: 5rem;
 
 }
 h2{

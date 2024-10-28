@@ -14,6 +14,7 @@ export default function Footer() {
             <a href="mailto:rahulrajancc@gmail.com" id="links">Mail</a>
 
             </div>
+            
         </div>
           
             

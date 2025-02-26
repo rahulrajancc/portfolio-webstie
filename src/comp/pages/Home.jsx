@@ -3,6 +3,7 @@ import hpic from '../../img/hpic.jpg';
 import op from '../../img/op.png';
 export default function Home() {
     return(
+          
         <div id="Home_con">
            <div id="nav_bar">
             <h1 id='head_home_bar'>Rahul Rajan</h1>
@@ -33,8 +34,10 @@ export default function Home() {
            <div id="home_content">
            <div className='home_items'>
 
-               <h2 id='header_main'>I'm a passionate <br/>
+              
+                <h2 id='header_main'>I'm a passionate <br/>
                Software/Web Developer</h2>
+               
                <p>Take a look at my projects and learn more about me</p>
            </div>
 

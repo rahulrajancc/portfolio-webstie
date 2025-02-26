@@ -6,13 +6,15 @@
    height: 1024px;
    width: 100%;
 }
+#message{
+    height:20px;
+}
 #nav_bar{
     display: flex;
     position: fixed;
     height: 10vh;
     width: 100%;
-    border: 2px solid white;
-    border-radius: 32px;
+  
     
     
 
@@ -71,6 +73,15 @@ margin-left: 1rem;;
 }
 #header_main{
     font-size: 70px;
+    animation: typing 3s steps(20 ,end) forwards ,blink 0.7s infinite;
+
+}
+@keyframes typing{
+    from {width:0;}
+    to {width:100%;}
+}
+@keyframes blink{
+    50% {border-color:transparent;}
 }
 #himg{
     height: 45rem;

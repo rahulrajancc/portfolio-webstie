@@ -4,3 +4,15 @@
     background-color: black;
     color: white;
 }
+#msg{
+    height:60px;
+    display:flex;
+    justify-content: center;
+}
+#message{
+    height:30px;
+    color:'red';
+};
+#message h1{
+    color:"red";
+}

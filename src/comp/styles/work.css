@@ -15,11 +15,13 @@ hr{
     font-size: 34px;
     text-align: center;
     margin-bottom: 2rem;
+    
 }
 .work_items{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 3rem;
+    
 }
 .project{
     border: 2px solid white;

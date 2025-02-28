@@ -7,7 +7,7 @@ import Footer from "./comp/pages/Footer";
 export default function App() {
  return(
     <div id="App_con">
-        <div id="msg">
+        <div id="msg">x
 
          
              <h1 id="message" style={{color:"red"}}>This Portfolio is under construction</h1>

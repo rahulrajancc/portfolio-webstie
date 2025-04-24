@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-webstie/%20/static/css/main.ba6e0332.css",
-    "main.js": "/portfolio-webstie/%20/static/js/main.8468bd56.js",
-    "static/js/453.843a6444.chunk.js": "/portfolio-webstie/%20/static/js/453.843a6444.chunk.js",
-    "static/media/pic.png": "/portfolio-webstie/%20/static/media/pic.674968ae71469b23f93f.png",
-    "static/media/js.png": "/portfolio-webstie/%20/static/media/js.5030f9b16b8c75fda375.png",
-    "static/media/physics.png": "/portfolio-webstie/%20/static/media/physics.86c8d9eba03e29814d2a.png",
-    "static/media/hpic.jpg": "/portfolio-webstie/%20/static/media/hpic.aefc473a10168420aec4.jpg",
-    "static/media/react.png": "/portfolio-webstie/%20/static/media/react.9c2e65ebf9c62e78a495.png",
-    "static/media/arduino.png": "/portfolio-webstie/%20/static/media/arduino.8f5562fee86bf42a890b.png",
-    "static/media/html .png": "/portfolio-webstie/%20/static/media/html .771c70c2006a4aa0109b.png",
-    "static/media/css.png": "/portfolio-webstie/%20/static/media/css.2d4a4a440115a46cb30d.png",
-    "static/media/op.png": "/portfolio-webstie/%20/static/media/op.dc67c2e1013e8447f4af.png",
-    "static/media/exprress.png": "/portfolio-webstie/%20/static/media/exprress.c0a5938442260d76c0f2.png",
-    "index.html": "/portfolio-webstie/%20/index.html",
-    "main.ba6e0332.css.map": "/portfolio-webstie/%20/static/css/main.ba6e0332.css.map",
-    "main.8468bd56.js.map": "/portfolio-webstie/%20/static/js/main.8468bd56.js.map",
-    "453.843a6444.chunk.js.map": "/portfolio-webstie/%20/static/js/453.843a6444.chunk.js.map"
+    "main.css": "/portfolio-webstie/static/css/main.934519c2.css",
+    "main.js": "/portfolio-webstie/static/js/main.9b8f2ed2.js",
+    "static/js/453.843a6444.chunk.js": "/portfolio-webstie/static/js/453.843a6444.chunk.js",
+    "static/media/pic.png": "/portfolio-webstie/static/media/pic.674968ae71469b23f93f.png",
+    "static/media/js.png": "/portfolio-webstie/static/media/js.5030f9b16b8c75fda375.png",
+    "static/media/physics.png": "/portfolio-webstie/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/hpic.jpg": "/portfolio-webstie/static/media/hpic.aefc473a10168420aec4.jpg",
+    "static/media/react.png": "/portfolio-webstie/static/media/react.9c2e65ebf9c62e78a495.png",
+    "static/media/arduino.png": "/portfolio-webstie/static/media/arduino.8f5562fee86bf42a890b.png",
+    "static/media/html .png": "/portfolio-webstie/static/media/html .771c70c2006a4aa0109b.png",
+    "static/media/css.png": "/portfolio-webstie/static/media/css.2d4a4a440115a46cb30d.png",
+    "static/media/op.png": "/portfolio-webstie/static/media/op.dc67c2e1013e8447f4af.png",
+    "static/media/exprress.png": "/portfolio-webstie/static/media/exprress.c0a5938442260d76c0f2.png",
+    "index.html": "/portfolio-webstie/index.html",
+    "main.934519c2.css.map": "/portfolio-webstie/static/css/main.934519c2.css.map",
+    "main.9b8f2ed2.js.map": "/portfolio-webstie/static/js/main.9b8f2ed2.js.map",
+    "453.843a6444.chunk.js.map": "/portfolio-webstie/static/js/453.843a6444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba6e0332.css",
-    "static/js/main.8468bd56.js"
+    "static/css/main.934519c2.css",
+    "static/js/main.9b8f2ed2.js"
   ]
 }
